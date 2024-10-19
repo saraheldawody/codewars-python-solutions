@@ -8,6 +8,7 @@ This repository contains Python solutions to various coding challenges from [Cod
 - [CamelCase Converter](#camelcase-converter-camelcaseconverterpy)
 - [Narcissistic Number Checker](#narcissistic-number-checker-isnarcissisticnumberpy)
 - [Remove Vowels from String](#remove-vowels-from-string-removevowlespy)
+- [Sort Digits in Descending Order](#sort-digits-in-descending-order-sortdigitspy)
 - More solutions to come...
 
 ---
@@ -68,6 +69,18 @@ print(disemvowel("This website is for losers LOL!"))
 ```
 
 Note: For this kata, 'y' isn't considered a vowel.
+
+## 5. Sort Digits in Descending Order (`sortDigits.py`)
+
+### Problem Description
+Create a function that takes any non-negative integer as input and returns the integer with its digits rearranged in descending order to form the highest possible number.
+
+### Example
+```python
+print(descending_order(42145))     # Output: 54421
+print(descending_order(145263))    # Output: 654321
+print(descending_order(123456789)) # Output: 987654321
+```
 
 ## How to Run
 1. Clone the repository:
