@@ -4,11 +4,11 @@ This repository contains Python solutions to various coding challenges from [Cod
 
 ## Table of Contents
 
-- [Filling Missing Data in a List](#filling-missing-data-in-a-list-fill_missingpy)
-- [CamelCase Converter](#camelcase-converter-camelcaseconverterpy)
-- [Narcissistic Number Checker](#narcissistic-number-checker-isnarcissisticnumberpy)
-- [Remove Vowels from String](#remove-vowels-from-string-removevowlespy)
-- [Sort Digits in Descending Order](#sort-digits-in-descending-order-sortdigitspy)
+- [Filling Missing Data in a List](#1-filling-missing-data-in-a-list-fill_missingpy)
+- [CamelCase Converter](#2-camelcase-converter-camelcaseconverterpy)
+- [Narcissistic Number Checker](#3-narcissistic-number-checker-isnarcissisticnumberpy)
+- [Remove Vowels from String](#4-remove-vowels-from-string-removevowlespy)
+- [Sort Digits in Descending Order](#5-sort-digits-in-descending-order-sortdigitspy)
 - More solutions to come...
 
 ---
