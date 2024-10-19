@@ -20,3 +20,6 @@ def narcissistic( value ):
     length = len(str(value))
     result = sum([int(num)**length for num in str(value)])
     return result == value
+
+print(narcissistic(153))
+print(narcissistic(1652))

@@ -7,6 +7,7 @@ This repository contains Python solutions to various coding challenges from [Cod
 - [Filling Missing Data in a List](#filling-missing-data-in-a-list-fill_missingpy)
 - [CamelCase Converter](#camelcase-converter-camelcaseconverterpy)
 - [Narcissistic Number Checker](#narcissistic-number-checker-isnarcissisticnumberpy)
+- [Remove Vowels from String](#remove-vowels-from-string-removevowlespy)
 - More solutions to come...
 
 ---
@@ -51,6 +52,22 @@ A Narcissistic number (or Armstrong number) is a number that is equal to the sum
 print(narcissistic(153))  # Output: True
 print(narcissistic(1652)) # Output: False
 ```
+
+## 4. Remove Vowels from String (removeVowles.py)
+
+### Problem Description
+Trolls are attacking your comment section! A common way to deal with this situation is to remove all the vowels from the trolls' comments, neutralizing the threat.
+
+Your task is to write a function that takes a string and returns a new string with all vowels removed.
+
+## Example
+
+```python
+print(disemvowel("This website is for losers LOL!"))  
+# Output: "Ths wbst s fr lsrs LL!"
+```
+
+Note: For this kata, 'y' isn't considered a vowel.
 
 ## How to Run
 1. Clone the repository:
