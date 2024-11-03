@@ -1,6 +1,6 @@
-# Codewars Python Solutions
+# Problem Solving using Python
 
-This repository contains Python solutions to various coding challenges from [Codewars](www.codewars.com/r/ykU6Dg). Each script in this repository solves a specific problem, with examples provided to demonstrate the solution. As I continue solving more challenges, I'll keep adding them to this repo.
+This folder contains Python solutions to various coding challenges from [Codewars](www.codewars.com/r/ykU6Dg). Each script in this repository solves a specific problem, with examples provided to demonstrate the solution.
 
 ## Table of Contents
 
